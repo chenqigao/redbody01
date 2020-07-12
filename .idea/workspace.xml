@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27795a42-ffcc-4ab2-9ad6-9f937a4f011f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Work\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5gLkqFpn3iRYiRuI45ZC9Uxig" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hh.sell.service.impl" />
+      <recent name="com.hh.sell.dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hh.sell.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\idea_workspace\sell\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hh.sell" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SellApplication (1)">
+    <configuration name="OrderServiceImplTest.cancel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.sell.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="cancel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceImplTest.findList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.sell.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="findList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceImplTest.findOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.sell.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="findOnes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceImplTest.finish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.sell.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="finish" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceImplTest.paid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.sell.service.impl.OrderServiceImplTest" />
+      <option name="METHOD_NAME" value="paid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hh.sell.SellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hh.sell.sell.SellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderServiceImplTest.paid" />
+        <item itemvalue="JUnit.OrderServiceImplTest.finish" />
+        <item itemvalue="JUnit.OrderServiceImplTest.cancel" />
+        <item itemvalue="JUnit.OrderServiceImplTest.findList" />
+        <item itemvalue="JUnit.OrderServiceImplTest.findOnes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27795a42-ffcc-4ab2-9ad6-9f937a4f011f" name="Default Changelist" comment="" />
+      <created>1593616813909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593616813909</updated>
+      <workItem from="1593616823846" duration="12593000" />
+      <workItem from="1593686898018" duration="4353000" />
+      <workItem from="1593692240639" duration="14607000" />
+      <workItem from="1593782823164" duration="264000" />
+      <workItem from="1594034661234" duration="2731000" />
+      <workItem from="1594566134755" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="52" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1593703262849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="52" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593703262849" />
+    <state x="462" y="221" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593702473779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="221" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1593702473779" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1594566673001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594566673001" />
+    <state width="1322" height="149" key="GridCell.Tab.0.bottom" timestamp="1593708418098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593708418098" />
+    <state width="1322" height="149" key="GridCell.Tab.0.center" timestamp="1593708418097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593708418097" />
+    <state width="1322" height="149" key="GridCell.Tab.0.left" timestamp="1593708418095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593708418095" />
+    <state width="1322" height="149" key="GridCell.Tab.0.right" timestamp="1593708418097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593708418097" />
+    <state width="1322" height="149" key="GridCell.Tab.1.bottom" timestamp="1593708418099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593708418099" />
+    <state width="1322" height="149" key="GridCell.Tab.1.center" timestamp="1593708418099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593708418099" />
+    <state width="1322" height="149" key="GridCell.Tab.1.left" timestamp="1593708418098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593708418098" />
+    <state width="1322" height="149" key="GridCell.Tab.1.right" timestamp="1593708418099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="149" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593708418099" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1593701661356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593701661356" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594566603307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594566603307" />
+    <state x="454" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593625416775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1593625416775" />
+    <state x="105" y="0" width="736" height="728" key="find.popup" timestamp="1593702304439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="105" y="0" width="736" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1593702304439" />
+    <state x="42" y="26" key="new project wizard" timestamp="1593783095954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="42" y="26" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593783095954" />
+  </component>
+</project>

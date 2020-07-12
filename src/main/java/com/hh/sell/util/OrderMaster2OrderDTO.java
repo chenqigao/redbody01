@@ -1,0 +1,26 @@
+package com.hh.sell.util;
+
+import com.hh.sell.pojo.OrderDTO;
+import com.hh.sell.pojo.OrderMaster;
+import org.springframework.beans.BeanUtils;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+/**
+ * 将List<OrderMaster>转换为List<OrderDTO>
+ */
+public class OrderMaster2OrderDTO {
+    public static OrderDTO convert(OrderMaster orderMaster){
+        OrderDTO orderDTO = new OrderDTO();
+        BeanUtils.copyProperties(orderMaster,orderDTO);
+        return orderDTO;
+    }
+
+    public static List<OrderDTO> convert(List<OrderMaster> orderMasterList){
+        return orderMasterList.stream()
+                .map(e->convert(e))
+                .collect(Collectors.toList());
+    }
+}
+
